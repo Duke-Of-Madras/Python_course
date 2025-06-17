@@ -1,17 +1,7 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+study
+run
+cook
+clean
+go to gym
+master python!
+master cpp!
